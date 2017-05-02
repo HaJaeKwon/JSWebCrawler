@@ -1,4 +1,4 @@
-var API = "https://api.aoikujira.com/kawase/get.php?code=USD&format=json";
+var API = "http://api.aoikujira.com/kawase/get.php?code=USD&format=json";
 
 var request = require('request');
 var fs = require('fs');
