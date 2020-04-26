@@ -2,3 +2,4 @@ node_modules/
 mecab-*
 *.log
 nodejs.jp/
+.idea
